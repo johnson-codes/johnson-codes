@@ -1,4 +1,4 @@
-# About Me:
+## About Me:
 
 Hi, I'm Johnson!
 
@@ -16,7 +16,7 @@ Let’s build something impactful.
 
 ---
 
-# Socials:
+## Socials:
 
 [LinkedIn](https://www.linkedin.com/in/johnsonwang-marketer)  
 [Portfolio](https://portfolio.johnson-codes.com)  
@@ -24,7 +24,7 @@ Let’s build something impactful.
 
 ---
 
-# Tech Stack:
+## Tech Stack:
 
 ### Frontend
 HTML · CSS · JavaScript · React · Vite · Bootstrap · Figma
@@ -49,7 +49,7 @@ Python · NLP · Vector Search · Feature Engineering · ML Model Deployment
 
 ---
 
-# What I’m Building Now
+## What I’m Building Now
 
 - AI-integrated web applications  
 - Stripe-powered eCommerce systems  
@@ -58,7 +58,7 @@ Python · NLP · Vector Search · Feature Engineering · ML Model Deployment
 
 ---
 
-# Philosophy
+## Philosophy
 
 Build like an engineer.  
 Think like a marketer.  
