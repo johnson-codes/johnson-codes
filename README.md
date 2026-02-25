@@ -26,26 +26,13 @@ Let’s build something impactful.
 
 ## Tech Stack:
 
-### Frontend
-HTML · CSS · JavaScript · React · Vite · Bootstrap · Figma
-
-### Backend
-Node.js · Express.js · Java · Spring MVC · REST APIs
-
-### Mobile
-Android (Java) · Firebase · SharedPreferences · MPAndroidChart
-
-### Databases
-MongoDB · MySQL · Firestore · Realtime Database
-
-### Cloud & DevOps
-Google Cloud Run · Firebase Hosting · Docker · GitHub · Caddy · CI/CD
-
-### Marketing & Analytics
-Google Ads · Meta Ads · Klaviyo · GA4 · SEO · CRO · A/B Testing · Looker Studio
-
-### AI & Data
-Python · NLP · Vector Search · Feature Engineering · ML Model Deployment
+- **Frontend:** HTML · CSS · JavaScript · React · Vite · Bootstrap · Figma
+- **Backend:** Node.js · Express.js · Java · Spring MVC · REST APIs
+- **Mobile:** Android (Java) · Firebase · SharedPreferences · MPAndroidChart
+- **Databases:** MongoDB · MySQL · Firestore · Realtime Database
+- **Cloud & DevOps:** Google Cloud Run · Firebase Hosting · Docker · GitHub · Caddy · CI/CD
+- **Marketing & Analytics:** Google Ads · Meta Ads · Klaviyo · GA4 · SEO · CRO · A/B Testing · Looker Studio
+- **AI & Data:** Python · NLP · Vector Search · Feature Engineering · ML Model Deployment
 
 ---
 
